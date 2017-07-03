@@ -3,9 +3,9 @@
 This application demonstrates a simple, reusable Node.js chatbot web application based on the Express framework.
 
 ## Configure the app
-1. [Import Watson conversation workspace][]
-2. [Replace "{conversation-workspace-id}" for your workspace ID in the file app.js][]
-2. [Replace "{conversation-username}" and "{conversation-password}" for your conversation credentials][]
+1. Import Watson conversation workspace (found at _watson folder)
+2. Replace "{conversation-workspace-id}" for your workspace ID in the file app.js
+2. Replace "{conversation-username}" and "{conversation-password}" for your conversation credentials
 
 ## Publish the app
 + cd into this project's root directory
